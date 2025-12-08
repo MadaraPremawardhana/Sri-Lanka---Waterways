@@ -2,8 +2,6 @@
 
 This repository contains a fully prepared **QGIS project** that integrates key geospatial datasets for **hydrological modeling, research, education, and extreme-event forecasting in Sri Lanka**. It serves as a practical testbed for analyzing terrain, waterways, and topography within a unified GIS environment.
 
-
-
 ## Included Data Layers
 
 - **Digital Elevation Model (DEM)**  
@@ -19,6 +17,16 @@ This repository contains a fully prepared **QGIS project** that integrates key g
 
 - **Contour Lines**  
   Derived from **OpenStreetMap** data via QuickOSM extraction.
+
+## Project Snapshots
+
+Here are some example views from the QGIS project:
+
+| Full Project Overview | DEM with Contours | Layer information|
+|----------------------|-----------------|----------------|
+| ![Full Project Overview](https://github.com/MadaraPremawardhana/Sri-Lanka---Waterways/blob/main/Full%20map.PNG) | ![Close-up DEM](https://github.com/MadaraPremawardhana/Sri-Lanka---Waterways/blob/main/a%20close%20look.PNG) | ![Layer info](https://github.com/MadaraPremawardhana/Sri-Lanka---Waterways/blob/main/layer%20info.PNG) |
+
+> **Tip:** Replace the paths in the image links with your actual file paths. It’s recommended to create an `images` folder in the repository and store all screenshots there.
 
 ## Purpose
 
