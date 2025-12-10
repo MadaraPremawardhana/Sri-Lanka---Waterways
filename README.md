@@ -47,7 +47,9 @@ This project provides a ready-to-use foundation for:
 
 ## Data Sources
 
-- DEM: Mendeley Data (CC-BY) – [https://data.mendeley.com/datasets/hzf2fpndpt/1](https://data.mendeley.com/datasets/hzf2fpndpt/1)  
+- DEM: Mendeley Data (CC-BY) – [https://data.mendeley.com/datasets/hzf2fpndpt/1](https://data.mendeley.com/datasets/hzf2fpndpt/1)
+Validated high resolution (12.5m) DEM for Sri Lanka, Published: 22 July 2024, Version 1, DOI: 10.17632/hzf2fpndpt.1, Contributors:
+Nilanka Sudarshani Watte Vidanelage, Wanasingha Arachchilage Kasun Indika Wanasingha,
 - Waterway & Contour Data: Extracted from **OpenStreetMap** via **QuickOSM** (© OpenStreetMap contributors)
 
 ## Getting Started
